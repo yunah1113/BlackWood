@@ -20,6 +20,8 @@
 2. **순차 대사 시스템** — Blueprint에서 Set Text → Delay(4~6초) 체인으로 13개 대사를 타이머 없이 순서대로 표시. 마지막 대사 완료 후 엔딩 시퀀스로 자연스럽게 연결
 3. **NPC 트리거 & 엔딩 시퀀스** — Box Collision 기반 NPC 접근 감지 → 대사 시작 → Camera Fade(2초) → Quit Game까지 하나의 Blueprint 흐름으로 연결
 
+![게임플레이: 대사 시스템](https://github.com/user-attachments/assets/ac9fcd49-73d9-431e-82de-c968f60f52f6)
+
 ---
 
 ## 내가 직접 만든 부분
