@@ -4,7 +4,7 @@
 
 ▶︎ [상세 보고서 보기](https://docs.google.com/document/d/1Iyc93ywdvLiulU9XX5HDxOi9p8R7U3KNMJsuRj0eHjI/edit?usp=sharing)
 
-![게임플레이 영상 보기](https://drive.google.com/file/d/1DII4dYx2whtO2ac66Ur2cfzu5kFN27w9/view?usp=drive_link)
+![게임플레이 영상 보기]((https://drive.google.com/file/d/1DII4dYx2whtO2ac66Ur2cfzu5kFN27w9/view?usp=sharing)
 
 ---
 
